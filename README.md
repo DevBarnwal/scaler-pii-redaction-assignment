@@ -16,6 +16,52 @@ python -m pii_redactor.cli --input "Reference Document.docx" --output redacted.d
 `--spans-json` is optional; it dumps every detected PII instance (type,
 text, character offset) for review or for feeding into `evaluate.py`.
 
+## Testing
+
+Three checks, all using files already committed in this repo -- no setup
+beyond `pip install -r requirements.txt` needed.
+
+**1. Regression test against the synthetic ticket log** (expect 1.00
+precision/recall/F1 across all 9 PII types):
+```bash
+python3 -m pii_redactor.cli --input sample_data/ticket_log_sample.docx \
+    --output /tmp/redacted.docx --spans-json /tmp/spans.json
+python3 evaluate.py --ground-truth sample_data/ground_truth.json --detected /tmp/spans.json
+```
+
+**2. Negative-control check** (should redact almost nothing -- this
+document is deliberately full of non-PII text designed to look like PII):
+```bash
+python3 -m pii_redactor.cli --input sample_data/negative_control.txt \
+    --output /tmp/negative_out.txt --spans-json /tmp/neg_spans.json
+```
+Expect exactly one flagged instance (an IP-shaped software version
+string -- a known, documented false positive, see "Tradeoffs" below).
+
+**3. Run against the real reference document** (reproduces the numbers
+in `evaluation_report.md` -- 210 NAME / 147 COMPANY / 52 EMAIL / 34
+PHONE / 19 ADDRESS across 298 of 4,027 non-empty paragraphs/cells):
+```bash
+python3 -m pii_redactor.cli --input "reference_document/Red Herring Prospectus - Original.docx" \
+    --output /tmp/rhp_redacted.docx --spans-json /tmp/rhp_spans.json
+```
+
+**4. Stratified precision/recall check against real document content**
+(reproduces the table in `evaluation_report.md`'s "Results -- the actual
+reference document" section):
+```bash
+cd reference_document && python3 build_stratified_sample.py && cd ..
+python3 -m pii_redactor.cli --input reference_document/stratified_excerpt.txt \
+    --output /tmp/strat_out.txt --spans-json reference_document/stratified_spans.json
+python3 evaluate.py --ground-truth reference_document/stratified_ground_truth.json \
+    --detected reference_document/stratified_spans.json
+```
+
+Because Faker is seeded (`--seed 42` by default), every one of these is
+deterministic -- re-running produces byte-identical output every time,
+which is what makes "diff this against what's in the repo" a valid check
+on its own.
+
 ## Approach
 
 Nine PII types are covered: full names, emails, phone numbers, company
