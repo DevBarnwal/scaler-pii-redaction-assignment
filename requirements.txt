@@ -1,0 +1,7 @@
+python-docx>=1.1.0
+Faker>=24.0.0
+
+# Optional, auto-detected at runtime: if spaCy + an English model
+# (e.g. en_core_web_sm) are already installed, find_names()/find_companies()
+# transparently switch from the gazetteer/regex heuristic to NER.
+# spacy>=3.7.0

@@ -1,0 +1,158 @@
+[
+  {
+    "type": "NAME",
+    "text": "Rashi Patil",
+    "start": 26,
+    "end": 37
+  },
+  {
+    "type": "ADDRESS",
+    "text": "221 MG Road, Koramangala, Bengaluru 560034",
+    "start": 43,
+    "end": 85
+  },
+  {
+    "type": "DOB",
+    "text": "14/03/1994",
+    "start": 5,
+    "end": 15
+  },
+  {
+    "type": "IP",
+    "text": "103.25.14.90",
+    "start": 15,
+    "end": 27
+  },
+  {
+    "type": "CREDIT_CARD",
+    "text": "4539 1488 0343 6467 ",
+    "start": 46,
+    "end": 66
+  },
+  {
+    "type": "NAME",
+    "text": "Rohan Dey",
+    "start": 26,
+    "end": 35
+  },
+  {
+    "type": "DOB",
+    "text": "02 July 1989",
+    "start": 15,
+    "end": 27
+  },
+  {
+    "type": "SSN",
+    "text": "219-09-9999",
+    "start": 30,
+    "end": 41
+  },
+  {
+    "type": "NAME",
+    "text": "Karan Mehta",
+    "start": 61,
+    "end": 72
+  },
+  {
+    "type": "NAME",
+    "text": "Ananya Sharma",
+    "start": 26,
+    "end": 39
+  },
+  {
+    "type": "ADDRESS",
+    "text": "45 Park Street, Salt Lake, Kolkata 700091",
+    "start": 35,
+    "end": 76
+  },
+  {
+    "type": "DOB",
+    "text": "1990-11-23",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Vikram Rao",
+    "start": 16,
+    "end": 26
+  },
+  {
+    "type": "IP",
+    "text": "192.168.10.55",
+    "start": 77,
+    "end": 90
+  },
+  {
+    "type": "NAME",
+    "text": "Rashi Patil",
+    "start": 0,
+    "end": 11
+  },
+  {
+    "type": "EMAIL",
+    "text": "rashi.patil@gmail.com",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 9876543210",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bluewave Technologies Pvt Ltd",
+    "start": 0,
+    "end": 29
+  },
+  {
+    "type": "NAME",
+    "text": "Rohan Dey",
+    "start": 0,
+    "end": 9
+  },
+  {
+    "type": "EMAIL",
+    "text": "rohan.dey@gmail.com",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 9123456789",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "type": "COMPANY",
+    "text": "Orion Data Systems Inc",
+    "start": 0,
+    "end": 22
+  },
+  {
+    "type": "NAME",
+    "text": "Ananya Sharma",
+    "start": 0,
+    "end": 13
+  },
+  {
+    "type": "EMAIL",
+    "text": "ananya.sharma88@yahoo.com",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "PHONE",
+    "text": "9988776655",
+    "start": 0,
+    "end": 10
+  },
+  {
+    "type": "COMPANY",
+    "text": "Vertex Cloud Solutions",
+    "start": 0,
+    "end": 22
+  }
+]

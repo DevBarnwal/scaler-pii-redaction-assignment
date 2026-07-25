@@ -1,0 +1,106 @@
+[
+  {
+    "type": "NAME",
+    "text": "Rashi Patil"
+  },
+  {
+    "type": "NAME",
+    "text": "Rashi Patil"
+  },
+  {
+    "type": "EMAIL",
+    "text": "rashi.patil@gmail.com"
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 9876543210"
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bluewave Technologies Pvt Ltd"
+  },
+  {
+    "type": "NAME",
+    "text": "Rohan Dey"
+  },
+  {
+    "type": "NAME",
+    "text": "Rohan Dey"
+  },
+  {
+    "type": "EMAIL",
+    "text": "rohan.dey@gmail.com"
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 9123456789"
+  },
+  {
+    "type": "COMPANY",
+    "text": "Orion Data Systems Inc"
+  },
+  {
+    "type": "NAME",
+    "text": "Ananya Sharma"
+  },
+  {
+    "type": "NAME",
+    "text": "Ananya Sharma"
+  },
+  {
+    "type": "EMAIL",
+    "text": "ananya.sharma88@yahoo.com"
+  },
+  {
+    "type": "PHONE",
+    "text": "9988776655"
+  },
+  {
+    "type": "COMPANY",
+    "text": "Vertex Cloud Solutions"
+  },
+  {
+    "type": "ADDRESS",
+    "text": "221 MG Road, Koramangala, Bengaluru 560034"
+  },
+  {
+    "type": "DOB",
+    "text": "14/03/1994"
+  },
+  {
+    "type": "IP",
+    "text": "103.25.14.90"
+  },
+  {
+    "type": "CREDIT_CARD",
+    "text": "4539 1488 0343 6467"
+  },
+  {
+    "type": "DOB",
+    "text": "02 July 1989"
+  },
+  {
+    "type": "SSN",
+    "text": "219-09-9999"
+  },
+  {
+    "type": "NAME",
+    "text": "Karan Mehta"
+  },
+  {
+    "type": "ADDRESS",
+    "text": "45 Park Street, Salt Lake, Kolkata 700091"
+  },
+  {
+    "type": "DOB",
+    "text": "1990-11-23"
+  },
+  {
+    "type": "NAME",
+    "text": "Vikram Rao"
+  },
+  {
+    "type": "IP",
+    "text": "192.168.10.55"
+  }
+]

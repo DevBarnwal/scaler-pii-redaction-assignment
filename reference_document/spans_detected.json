@@ -1,0 +1,2774 @@
+[
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 44,
+    "end": 84
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 316,
+    "end": 356
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 362,
+    "end": 395
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 1529,
+    "end": 1554
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 16,
+    "end": 33
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 4505 3237",
+    "start": 88,
+    "end": 105
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 8,
+    "end": 39
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 129,
+    "end": 154
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 258,
+    "end": 301
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 65,
+    "end": 83
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 85,
+    "end": 104
+  },
+  {
+    "type": "COMPANY",
+    "text": "Trust and Waterloo Industrial Park VI Private Limited",
+    "start": 238,
+    "end": 291
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our Promoters and Promoter Group",
+    "start": 26,
+    "end": 58
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 31,
+    "end": 52
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 54,
+    "end": 73
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 75,
+    "end": 93
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 98,
+    "end": 117
+  },
+  {
+    "type": "NAME",
+    "text": "Amod Joshi",
+    "start": 52,
+    "end": 62
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 69,
+    "end": 86
+  },
+  {
+    "type": "NAME",
+    "text": "Ganesh Prasad",
+    "start": 119,
+    "end": 132
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 20,
+    "end": 40
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 18,
+    "end": 38
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 20,
+    "end": 40
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 18,
+    "end": 38
+  },
+  {
+    "type": "COMPANY",
+    "text": "Care Analytics and Advisory Private Limited",
+    "start": 254,
+    "end": 297
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bharat Bijlee Limited",
+    "start": 61,
+    "end": 82
+  },
+  {
+    "type": "COMPANY",
+    "text": "CG Power and Industrial Solutions Limited",
+    "start": 84,
+    "end": 125
+  },
+  {
+    "type": "COMPANY",
+    "text": "Emirates Transformer & Switchgear Limited",
+    "start": 127,
+    "end": 168
+  },
+  {
+    "type": "COMPANY",
+    "text": "Georgia Transformer Corporation",
+    "start": 170,
+    "end": 201
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nidec Industrial Automation India Private Limited",
+    "start": 203,
+    "end": 252
+  },
+  {
+    "type": "COMPANY",
+    "text": "Virginia Transformer Corporation",
+    "start": 301,
+    "end": 333
+  },
+  {
+    "type": "COMPANY",
+    "text": "Cindus Corporation",
+    "start": 55,
+    "end": 73
+  },
+  {
+    "type": "COMPANY",
+    "text": "Elantas Beck India Limited",
+    "start": 75,
+    "end": 101
+  },
+  {
+    "type": "COMPANY",
+    "text": "Hindalco Industries Limited",
+    "start": 103,
+    "end": 130
+  },
+  {
+    "type": "COMPANY",
+    "text": "Polycom Associates",
+    "start": 132,
+    "end": 150
+  },
+  {
+    "type": "COMPANY",
+    "text": "Savli Copper Products Private Limited",
+    "start": 152,
+    "end": 189
+  },
+  {
+    "type": "COMPANY",
+    "text": "Union Copper Rod LLC",
+    "start": 191,
+    "end": 211
+  },
+  {
+    "type": "COMPANY",
+    "text": "Vedanta Limited",
+    "start": 217,
+    "end": 232
+  },
+  {
+    "type": "ADDRESS",
+    "text": "2023, respectively is attributable to the power sector",
+    "start": 191,
+    "end": 245
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 280,
+    "end": 313
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 103,
+    "end": 143
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 149,
+    "end": 182
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 87,
+    "end": 106
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 99,
+    "end": 117
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 95,
+    "end": 113
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanj and Co LLP",
+    "start": 169,
+    "end": 184
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 153,
+    "end": 174
+  },
+  {
+    "type": "COMPANY",
+    "text": "Care Analytics and Advisory Private Limited",
+    "start": 154,
+    "end": 197
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 31,
+    "end": 52
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 54,
+    "end": 73
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 75,
+    "end": 93
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 98,
+    "end": 117
+  },
+  {
+    "type": "NAME",
+    "text": "Amod Joshi",
+    "start": 52,
+    "end": 62
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 69,
+    "end": 86
+  },
+  {
+    "type": "NAME",
+    "text": "Ganesh Prasad",
+    "start": 119,
+    "end": 132
+  },
+  {
+    "type": "NAME",
+    "text": "Parner Industrial Park",
+    "start": 71,
+    "end": 93
+  },
+  {
+    "type": "ADDRESS",
+    "text": "000 MT per annum, and Phase",
+    "start": 276,
+    "end": 303
+  },
+  {
+    "type": "COMPANY",
+    "text": "Care Ratings Limited",
+    "start": 119,
+    "end": 139
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 39,
+    "end": 60
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 62,
+    "end": 81
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 83,
+    "end": 102
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 104,
+    "end": 122
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 127,
+    "end": 146
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our Promoter and Promoter Group",
+    "start": 195,
+    "end": 226
+  },
+  {
+    "type": "NAME",
+    "text": "Ajay Shriram Patil",
+    "start": 386,
+    "end": 404
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Motors Private Limited",
+    "start": 70,
+    "end": 101
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Project Management Services Private Limited",
+    "start": 108,
+    "end": 155
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park 5 Private Limited",
+    "start": 163,
+    "end": 195
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park VI Private Limited",
+    "start": 202,
+    "end": 235
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Distriparks Private Limited",
+    "start": 241,
+    "end": 272
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Integrated Logistics Private Limited",
+    "start": 279,
+    "end": 319
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kushal Motors and Electricals Private Limited",
+    "start": 327,
+    "end": 372
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park I Private Limited",
+    "start": 381,
+    "end": 423
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park II Private Limited",
+    "start": 430,
+    "end": 473
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park III Private Limited",
+    "start": 479,
+    "end": 523
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IV Private Limited",
+    "start": 530,
+    "end": 573
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park V Private Limited",
+    "start": 581,
+    "end": 623
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "start": 632,
+    "end": 675
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park VIII Private Limited",
+    "start": 683,
+    "end": 728
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IX Private Limited",
+    "start": 735,
+    "end": 778
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IX B Private Limited",
+    "start": 786,
+    "end": 831
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IX A Private Limited",
+    "start": 840,
+    "end": 885
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park IV Private Limited",
+    "start": 899,
+    "end": 932
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our Promoters and Promoter Group",
+    "start": 1064,
+    "end": 1096
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our Promoters and Promoter Group",
+    "start": 1628,
+    "end": 1660
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our IT systems",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 47,
+    "end": 68
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Hegde",
+    "start": 88,
+    "end": 100
+  },
+  {
+    "type": "COMPANY",
+    "text": "Company KSH International Limited",
+    "start": 25,
+    "end": 58
+  },
+  {
+    "type": "COMPANY",
+    "text": "Company KSH International Limited",
+    "start": 24,
+    "end": 57
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 45053237",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "Sarthak.malvadkar@kshinterantional.com",
+    "start": 8,
+    "end": 46
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32
+  },
+  {
+    "type": "ADDRESS",
+    "text": "3 Inspire BKC G Block, Bandra Kurla Complex",
+    "start": 30,
+    "end": 73
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 40094400",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 34,
+    "end": 52
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 27,
+    "end": 56
+  },
+  {
+    "type": "NAME",
+    "text": "Lokesh Shah",
+    "start": 16,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Soumavo Sarkar",
+    "start": 29,
+    "end": 43
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Venture House Appasaheb",
+    "start": 31,
+    "end": 54
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 6807 7100",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 35,
+    "end": 58
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 119,
+    "end": 151
+  },
+  {
+    "type": "NAME",
+    "text": "Kishan Rastogi",
+    "start": 16,
+    "end": 30
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32
+  },
+  {
+    "type": "ADDRESS",
+    "text": "3 Inspire BKC, G Block",
+    "start": 29,
+    "end": 51
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 22 4009 4400",
+    "start": 11,
+    "end": 28
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 7,
+    "end": 25
+  },
+  {
+    "type": "EMAIL",
+    "text": "prakash.boricha@nuvama.com",
+    "start": 27,
+    "end": 53
+  },
+  {
+    "type": "EMAIL",
+    "text": "sheetal.parab@nuvama.com",
+    "start": 59,
+    "end": 83
+  },
+  {
+    "type": "NAME",
+    "text": "Prakash Boricha",
+    "start": 16,
+    "end": 31
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Venture House Appasaheb",
+    "start": 31,
+    "end": 54
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 6807 7100",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 35,
+    "end": 58
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 27,
+    "end": 59
+  },
+  {
+    "type": "NAME",
+    "text": "Kishan Rastogi",
+    "start": 16,
+    "end": 30
+  },
+  {
+    "type": "EMAIL",
+    "text": "ipo@trilegal.com",
+    "start": 7,
+    "end": 23
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 4079 1000",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 81081 14949",
+    "start": 86,
+    "end": 101
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 8,
+    "end": 45
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 27,
+    "end": 64
+  },
+  {
+    "type": "COMPANY",
+    "text": "Offer Escrow Collection Bank HDFC Bank Limited",
+    "start": 15,
+    "end": 61
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149
+  },
+  {
+    "type": "NAME",
+    "text": "Eric Bacha",
+    "start": 16,
+    "end": 26
+  },
+  {
+    "type": "NAME",
+    "text": "Siddharth Jadhav",
+    "start": 56,
+    "end": 72
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "ADDRESS",
+    "text": "163, 5th Floor, H.T.Parekh Marg",
+    "start": 0,
+    "end": 31
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 111,
+    "end": 131
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149
+  },
+  {
+    "type": "NAME",
+    "text": "Eric Bacha",
+    "start": 16,
+    "end": 26
+  },
+  {
+    "type": "NAME",
+    "text": "Siddharth Jadhav",
+    "start": 56,
+    "end": 72
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "ADDRESS",
+    "text": "163, 5th Floor, H.T.Parekh Marg",
+    "start": 0,
+    "end": 31
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 111,
+    "end": 131
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149
+  },
+  {
+    "type": "NAME",
+    "text": "Eric Bacha",
+    "start": 16,
+    "end": 26
+  },
+  {
+    "type": "NAME",
+    "text": "Siddharth Jadhav",
+    "start": 56,
+    "end": 72
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 33,
+    "end": 48
+  },
+  {
+    "type": "NAME",
+    "text": "Gopal House",
+    "start": 19,
+    "end": 30
+  },
+  {
+    "type": "NAME",
+    "text": "Opp Harshal Hall",
+    "start": 25,
+    "end": 41
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 8,
+    "end": 39
+  },
+  {
+    "type": "PHONE",
+    "text": "(20) 6729 5100",
+    "start": 16,
+    "end": 30
+  },
+  {
+    "type": "NAME",
+    "text": "Koregaon Park",
+    "start": 0,
+    "end": 13
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 20 6606 4494",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Hitesh Ramani",
+    "start": 16,
+    "end": 29
+  },
+  {
+    "type": "EMAIL",
+    "text": "hitesh.ramani@citi.com",
+    "start": 7,
+    "end": 29
+  },
+  {
+    "type": "NAME",
+    "text": "Shivaji Nagar",
+    "start": 36,
+    "end": 49
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 20 2640 3100",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "pro@eximbankindia.in",
+    "start": 95,
+    "end": 115
+  },
+  {
+    "type": "COMPANY",
+    "text": "IndusInd Bank Limited",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "ADDRESS",
+    "text": "2401 Gen Thimmayya Road, Cantonment",
+    "start": 22,
+    "end": 57
+  },
+  {
+    "type": "PHONE",
+    "text": "+91-20-26234000",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "NAME",
+    "text": "Sharmila Joshi",
+    "start": 43,
+    "end": 57
+  },
+  {
+    "type": "EMAIL",
+    "text": "sharmila.joshi@indusind.com",
+    "start": 92,
+    "end": 119
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Satguru House Next",
+    "start": 33,
+    "end": 51
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 8879770456",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "EMAIL",
+    "text": "cherag.gyara@icicibank.com",
+    "start": 90,
+    "end": 116
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "NAME",
+    "text": "Park Bund Garden",
+    "start": 23,
+    "end": 39
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 20 6769 4648",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Manisha Shukla",
+    "start": 44,
+    "end": 58
+  },
+  {
+    "type": "EMAIL",
+    "text": "manisha.shukla@hdfcbank.com",
+    "start": 7,
+    "end": 34
+  },
+  {
+    "type": "NAME",
+    "text": "Tara Chambers",
+    "start": 0,
+    "end": 13
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 20 2561 8211",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "rm6.ifbpune@sbi.co.in",
+    "start": 7,
+    "end": 28
+  },
+  {
+    "type": "COMPANY",
+    "text": "Federal Bank Limited",
+    "start": 4,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Kubera Chambers Opp",
+    "start": 39,
+    "end": 58
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 91586 40360",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Ashish Mathew Pulloor",
+    "start": 16,
+    "end": 37
+  },
+  {
+    "type": "EMAIL",
+    "text": "ashishmp@federalbank.co.in",
+    "start": 7,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bajaj Finance Limited",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 20 7157 6403",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Anand Soni",
+    "start": 44,
+    "end": 54
+  },
+  {
+    "type": "EMAIL",
+    "text": "anand.soni@bajajfinserv.in",
+    "start": 92,
+    "end": 118
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Ratings Limited",
+    "start": 137,
+    "end": 157
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 228,
+    "end": 243
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 7,
+    "end": 38
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 45053237",
+    "start": 50,
+    "end": 66
+  },
+  {
+    "type": "NAME",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36
+  },
+  {
+    "type": "NAME",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57
+  },
+  {
+    "type": "NAME",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78
+  },
+  {
+    "type": "NAME",
+    "text": "ROHIT KUSHAL HEGDE",
+    "start": 80,
+    "end": 98
+  },
+  {
+    "type": "NAME",
+    "text": "RAKHI GIRIJA SHETTY",
+    "start": 100,
+    "end": 119
+  },
+  {
+    "type": "COMPANY",
+    "text": "WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+    "start": 0,
+    "end": 43
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 17,
+    "end": 37
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106
+  },
+  {
+    "type": "COMPANY",
+    "text": "India Limited",
+    "start": 146,
+    "end": 159
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama\tWealth Management Limited",
+    "start": 0,
+    "end": 32
+  },
+  {
+    "type": "NAME",
+    "text": "Lokesh Shah",
+    "start": 0,
+    "end": 11
+  },
+  {
+    "type": "NAME",
+    "text": "Soumavo Sarkar",
+    "start": 13,
+    "end": 27
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 7,
+    "end": 25
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 4009 4400",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI\tSecurities Limited",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Kishan Rastogi",
+    "start": 0,
+    "end": 14
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 7,
+    "end": 30
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 6807 7100",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 1,
+    "end": 43
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 81081 14949",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 8,
+    "end": 45
+  },
+  {
+    "type": "NAME",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36
+  },
+  {
+    "type": "NAME",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57
+  },
+  {
+    "type": "NAME",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78
+  },
+  {
+    "type": "NAME",
+    "text": "ROHIT KUSHAL HEGDE",
+    "start": 80,
+    "end": 98
+  },
+  {
+    "type": "NAME",
+    "text": "RAKHI GIRIJA SHETTY",
+    "start": 100,
+    "end": 119
+  },
+  {
+    "type": "COMPANY",
+    "text": "TRUST AND WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+    "start": 99,
+    "end": 152
+  },
+  {
+    "type": "COMPANY",
+    "text": "OF KSH INTERNATIONAL LIMITED",
+    "start": 94,
+    "end": 122
+  },
+  {
+    "type": "NAME",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 635,
+    "end": 656
+  },
+  {
+    "type": "NAME",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 746,
+    "end": 765
+  },
+  {
+    "type": "NAME",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872
+  },
+  {
+    "type": "NAME",
+    "text": "ROHIT KUSHAL HEGDE",
+    "start": 963,
+    "end": 981
+  },
+  {
+    "type": "NAME",
+    "text": "WIDELY CIRCULATED ENGLISH",
+    "start": 298,
+    "end": 323
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32
+  },
+  {
+    "type": "ADDRESS",
+    "text": "3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India",
+    "start": 31,
+    "end": 124
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 40094400",
+    "start": 5,
+    "end": 20
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 8,
+    "end": 26
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 26,
+    "end": 55
+  },
+  {
+    "type": "NAME",
+    "text": "Lokesh Shah",
+    "start": 16,
+    "end": 27
+  },
+  {
+    "type": "NAME",
+    "text": "Soumavo Sarkar",
+    "start": 29,
+    "end": 43
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Venture House",
+    "start": 6,
+    "end": 19
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 6807 7100",
+    "start": 5,
+    "end": 21
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 8,
+    "end": 31
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 26,
+    "end": 58
+  },
+  {
+    "type": "NAME",
+    "text": "Kishan Rastogi",
+    "start": 16,
+    "end": 30
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 1,
+    "end": 43
+  },
+  {
+    "type": "ADDRESS",
+    "text": "247, 1st Floor, L B S Marg, Vikhroli",
+    "start": 15,
+    "end": 51
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 81081 14949",
+    "start": 5,
+    "end": 20
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 8,
+    "end": 45
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 27,
+    "end": 64
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 53,
+    "end": 73
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 129,
+    "end": 172
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 306,
+    "end": 349
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 58,
+    "end": 79
+  },
+  {
+    "type": "NAME",
+    "text": "Amod Joshi",
+    "start": 50,
+    "end": 60
+  },
+  {
+    "type": "NAME",
+    "text": "Sarthak Malvadkar",
+    "start": 67,
+    "end": 84
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "start": 0,
+    "end": 43
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Motors Private Limited",
+    "start": 18,
+    "end": 49
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Project Management Services Private Limited",
+    "start": 51,
+    "end": 98
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park 5 Private Limited",
+    "start": 100,
+    "end": 132
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park VI Private Limited",
+    "start": 134,
+    "end": 167
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Distriparks Private Limited",
+    "start": 169,
+    "end": 200
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Integrated Logistics Private Limited",
+    "start": 202,
+    "end": 242
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kushal Motors and Electricals Private Limited",
+    "start": 244,
+    "end": 289
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park I Private Limited",
+    "start": 291,
+    "end": 333
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park II Private Limited",
+    "start": 335,
+    "end": 378
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park III Private Limited",
+    "start": 380,
+    "end": 424
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IV Private Limited",
+    "start": 426,
+    "end": 469
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park V Private Limited",
+    "start": 471,
+    "end": 513
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "start": 515,
+    "end": 558
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park VIII Private Limited",
+    "start": 560,
+    "end": 605
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IX Private Limited",
+    "start": 607,
+    "end": 650
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Industrial Park IX B Private Limited",
+    "start": 652,
+    "end": 697
+  },
+  {
+    "type": "NAME",
+    "text": "Waterloo Industrial Park",
+    "start": 699,
+    "end": 723
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park IV Private Limited",
+    "start": 13,
+    "end": 46
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 34,
+    "end": 77
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 50,
+    "end": 68
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 45,
+    "end": 64
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42
+  },
+  {
+    "type": "COMPANY",
+    "text": "Our Promoters and Promoter Group",
+    "start": 172,
+    "end": 204
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 65,
+    "end": 83
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 88,
+    "end": 107
+  },
+  {
+    "type": "COMPANY",
+    "text": "Trust and Waterloo Industrial Park VI Private Limited",
+    "start": 58,
+    "end": 111
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 68,
+    "end": 86
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Sangeeta Ramprasad Rai",
+    "start": 0,
+    "end": 22
+  },
+  {
+    "type": "ADDRESS",
+    "text": "5, Chakan Industrial Area, Phase",
+    "start": 47,
+    "end": 79
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 46,
+    "end": 65
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 52,
+    "end": 84
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 89,
+    "end": 113
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 275,
+    "end": 290
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 182,
+    "end": 199
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Ratings Limited",
+    "start": 84,
+    "end": 104
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 218,
+    "end": 239
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 329,
+    "end": 348
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 436,
+    "end": 455
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 546,
+    "end": 564
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 173,
+    "end": 191
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 153,
+    "end": 170
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 173,
+    "end": 188
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 81,
+    "end": 114
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 116,
+    "end": 158
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited and ICICI Bank Limited",
+    "start": 149,
+    "end": 189
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 14,
+    "end": 25
+  },
+  {
+    "type": "COMPANY",
+    "text": "India Limited",
+    "start": 57,
+    "end": 70
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 8,
+    "end": 40
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 45,
+    "end": 69
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 26,
+    "end": 41
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 181,
+    "end": 196
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 0,
+    "end": 11
+  },
+  {
+    "type": "NAME",
+    "text": "Automated Clearing House",
+    "start": 9,
+    "end": 33
+  },
+  {
+    "type": "COMPANY",
+    "text": "National Payments Corporation",
+    "start": 0,
+    "end": 29
+  },
+  {
+    "type": "COMPANY",
+    "text": "National Securities Depository Limited",
+    "start": 0,
+    "end": 38
+  },
+  {
+    "type": "COMPANY",
+    "text": "India Limited",
+    "start": 27,
+    "end": 40
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 10,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 10,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Master Circular",
+    "start": 9,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Deen Dayal Upadhyaya",
+    "start": 0,
+    "end": 20
+  },
+  {
+    "type": "NAME",
+    "text": "Gram Jyoti",
+    "start": 21,
+    "end": 31
+  },
+  {
+    "type": "NAME",
+    "text": "Pradhan Mantri Awas",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Pradhan Mantri Kisan",
+    "start": 0,
+    "end": 20
+  },
+  {
+    "type": "COMPANY",
+    "text": "Precision Wires India Limited",
+    "start": 0,
+    "end": 29
+  },
+  {
+    "type": "COMPANY",
+    "text": "Solar Energy Corporation",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "COMPANY",
+    "text": "India Limited",
+    "start": 28,
+    "end": 41
+  },
+  {
+    "type": "COMPANY",
+    "text": "Underwriters Laboratories",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Maithili Rajesh Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Katyayani Balasubramanian",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal\tSubbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa\tKushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh\tKushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit\tKushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Maithili\tRajesh Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Katyayani Balasubramanian",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "COMPANY",
+    "text": "Malabar India Fund Limited",
+    "start": 0,
+    "end": 26
+  },
+  {
+    "type": "NAME",
+    "text": "Salil Ajay Bhargava",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Jabeen Ajay Menon",
+    "start": 0,
+    "end": 17
+  },
+  {
+    "type": "NAME",
+    "text": "Ajay Menon",
+    "start": 0,
+    "end": 10
+  },
+  {
+    "type": "NAME",
+    "text": "Sunil\tNagayya Shetty",
+    "start": 0,
+    "end": 20
+  },
+  {
+    "type": "ADDRESS",
+    "text": "2023, respectively is attributable to the power sector",
+    "start": 191,
+    "end": 245
+  },
+  {
+    "type": "NAME",
+    "text": "Infra Park",
+    "start": 4,
+    "end": 14
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Maithili Rajesh Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Maithili Rajesh Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Katyayani Balasubramanian",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Katyayani Balasubramanian",
+    "start": 0,
+    "end": 25
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Jayaram Shetty",
+    "start": 52,
+    "end": 66
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Karunakar Hegde",
+    "start": 50,
+    "end": 65
+  },
+  {
+    "type": "NAME",
+    "text": "Karunakar Hegde",
+    "start": 34,
+    "end": 49
+  },
+  {
+    "type": "NAME",
+    "text": "Karunakar Hegde",
+    "start": 59,
+    "end": 74
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 34,
+    "end": 53
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "COMPANY",
+    "text": "Shubhkamal Leasing and Investment Private Limited",
+    "start": 52,
+    "end": 101
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Hegde",
+    "start": 34,
+    "end": 45
+  },
+  {
+    "type": "NAME",
+    "text": "Karunakar Hegde",
+    "start": 51,
+    "end": 66
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 34,
+    "end": 53
+  },
+  {
+    "type": "COMPANY",
+    "text": "Shubhkamal Leasing and Investment Private Limited",
+    "start": 59,
+    "end": 108
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Vijay Hegde",
+    "start": 50,
+    "end": 61
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Hegde",
+    "start": 34,
+    "end": 45
+  },
+  {
+    "type": "NAME",
+    "text": "Vijay Hegde",
+    "start": 49,
+    "end": 60
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Hegde",
+    "start": 50,
+    "end": 62
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Hegde",
+    "start": 67,
+    "end": 78
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Hegde",
+    "start": 37,
+    "end": 49
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Hegde",
+    "start": 51,
+    "end": 63
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Hegde",
+    "start": 68,
+    "end": 79
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Hegde",
+    "start": 83,
+    "end": 95
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "NAME",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "NAME",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "ADDRESS",
+    "text": "104, Pushpakamal, Deccan Gymkhana Society, lane",
+    "start": 12,
+    "end": 59
+  },
+  {
+    "type": "ADDRESS",
+    "text": "3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune \u2013 411 004 Maharashtra, India",
+    "start": 64,
+    "end": 161
+  },
+  {
+    "type": "NAME",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "ADDRESS",
+    "text": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune \u2013 411 008, Maharashtra",
+    "start": 0,
+    "end": 96
+  },
+  {
+    "type": "NAME",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "ADDRESS",
+    "text": "104, Prabhat Road Lane no. 3, Shivaji Nagar, Deccan Gymkhana, Pune \u2013 411 004, Maharashtra, India",
+    "start": 45,
+    "end": 141
+  },
+  {
+    "type": "NAME",
+    "text": "Rakhi Girija Shetty",
+    "start": 0,
+    "end": 19
+  },
+  {
+    "type": "ADDRESS",
+    "text": "104, Pushpakamal, Deccan Gymkhana Society, lane",
+    "start": 12,
+    "end": 59
+  },
+  {
+    "type": "ADDRESS",
+    "text": "3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune \u2013 411 004 Maharashtra",
+    "start": 0,
+    "end": 102
+  },
+  {
+    "type": "NAME",
+    "text": "Ajay Shriram Patil",
+    "start": 0,
+    "end": 18
+  },
+  {
+    "type": "ADDRESS",
+    "text": "602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune \u2013 411 004, Maharashtra, India",
+    "start": 0,
+    "end": 102
+  },
+  {
+    "type": "NAME",
+    "text": "Ram Kumar Tiwari",
+    "start": 0,
+    "end": 16
+  },
+  {
+    "type": "ADDRESS",
+    "text": "259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal \u2013 462 023",
+    "start": 2,
+    "end": 68
+  },
+  {
+    "type": "NAME",
+    "text": "Indu Jacob",
+    "start": 0,
+    "end": 10
+  },
+  {
+    "type": "NAME",
+    "text": "Gopal House",
+    "start": 11,
+    "end": 22
+  },
+  {
+    "type": "NAME",
+    "text": "Opposite Harshal Hall",
+    "start": 0,
+    "end": 21
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Limited",
+    "start": 29,
+    "end": 41
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 8,
+    "end": 39
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 6729 5100",
+    "start": 11,
+    "end": 28
+  },
+  {
+    "type": "COMPANY",
+    "text": "Hingne Tare & Associates",
+    "start": 0,
+    "end": 24
+  },
+  {
+    "type": "NAME",
+    "text": "Sai Complex Shaniwar",
+    "start": 39,
+    "end": 59
+  },
+  {
+    "type": "EMAIL",
+    "text": "hingnetare@gmail.com",
+    "start": 8,
+    "end": 28
+  }
+]
